@@ -25,6 +25,7 @@ SMS
 WORKING OF ALCOHOL DETECTION MODEL
 1. alcohol sensor is connected directly to arduino uno to detect presence of alcohol
 2. Irrespective of if the person is authorized or not, if alcohol is detected, an sms is sent whose python file takes data from arduino uno serial monitor
+   
 https://github.com/OmkarAditya/Smart_Car/assets/108687318/72f314df-599d-4071-9d4e-a1edac4b31a8
 
 SMS

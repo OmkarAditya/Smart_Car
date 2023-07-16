@@ -1,4 +1,4 @@
-![intruder](https://github.com/OmkarAditya/Smart_Car/assets/108687318/69067aff-2639-4f60-a0c1-2dcb522e9686)# Smart_Car
+# Smart_Car
 A smart car mechannism which detects either driver is drunk or if an intruder as entered the car and if so sends an sms with live location regarding the same
 
 
@@ -6,7 +6,10 @@ COMPONENTS USED: ARDUINO UNO, ARDUINO MEGA,BREADBOARD, ALCOHOL SENSOR , ULTRASON
 SOFTWARE USED: ARDUINO IDE, PYTHON, TWLIO
 
 Working of intruder model
-https://github.com/OmkarAditya/Smart_Car/assets/108687318/222439a4-be25-4980-b22e-09549745a8d0
+
+https://github.com/OmkarAditya/Smart_Car/assets/108687318/becaeab9-1d56-4623-983c-334451dee1fd
+
+
 
 SMS
 

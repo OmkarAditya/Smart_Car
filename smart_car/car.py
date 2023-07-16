@@ -5,10 +5,10 @@ from twilio.rest import Client
 import json
 from urllib.request import urlopen
 
-account_sid = "AC8a7175c6d3cfafa93a55f3b94d8ed838"
-auth_token = "c258a29fd5310c695afe35655eadd4d2"
-twilio_number = "+12343015044"
-recipient_number = "+916372083316"
+account_sid = "ACCOUNT_SID"
+auth_token = "AUTH_TOKEN"
+twilio_number = "TWILIO NUMBER"
+recipient_number = "YOUR NUMBER"
 
 serial_port = "COM8"  # Update with your serial port
 baud_rate = 9600
